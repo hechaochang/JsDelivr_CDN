@@ -3429,3 +3429,7 @@ ul::-webkit-scrollbar-track {
 #link3-error {
 	display: none;
 }
+/*隐藏视频信息屏蔽词汇，Dplayer弹幕加载中，页面全屏，视频错误，弹幕礼仪*/
+.yzmplayer-info-panel-item-title-amount,.yzmplayer-danloading,#loading-box,#link3-error,.dmrules{
+    display: none !important;
+}
