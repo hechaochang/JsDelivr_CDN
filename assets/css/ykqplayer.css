@@ -1823,10 +1823,10 @@ f .yzmplayer.yzmplayer-mobile .yzmplayer-controller .yzmplayer-icons .yzmplayer-
 }
 
 .yzmplayer.yzmplayer-mobile .yzmplayer-controller .yzmplayer-icons .yzmplayer-full .yzmplayer-full-in-icon {
-	position: absolute;
+	position: static;
 	top: -30px;
 	z-index: 1;
-	display: none
+	display: inline-block
 }
 
 .yzmplayer-controller .yzmplayer-icons .yzmplayer-quality {
