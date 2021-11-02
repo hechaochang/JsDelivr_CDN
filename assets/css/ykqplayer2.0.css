@@ -3175,11 +3175,11 @@ ul::-webkit-scrollbar-track {
 }
 
 .yzmplayer-full-icon span {
-	background: url(../img/fulloff.png) center no-repeat;
+	background: url(https://cdn.jsdelivr.net/gh/hechaochang/JsDelivr_CDN/assets/img/fulloff.png) center no-repeat;
 }
 
 .yzmplayer-fulloff-icon span {
-	background: url(../img/fulloff.webp) center no-repeat;
+	background: url(https://cdn.jsdelivr.net/gh/hechaochang/JsDelivr_CDN/assets/img/fulloff.webp) center no-repeat;
 }
 
 #vod-title {
